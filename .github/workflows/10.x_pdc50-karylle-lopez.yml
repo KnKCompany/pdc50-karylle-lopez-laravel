@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pdc50-karylle-lopez'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B332BE549938465C8AC927D2B0C4D1BE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_92DC2AD223E44CD0BC36CF75F0973D27 }}
           package: .
